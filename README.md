@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/banner.png" alt="SmartBiz AI Banner" width="100%">
+</p>
+assets/banner.png
+
+
 SmartBiz AI – Multi-Agent Business Reasoning System (Prototype):
 
 SmartBiz AI is an experimental multi-agent system designed to simulate small-business workflows such as data analysis, basic decision-making, task coordination, and insight generation.
