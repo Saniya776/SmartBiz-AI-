@@ -81,9 +81,9 @@ Future Roadmap:
 
 Build full Streamlit web application
 
-Add modern UI/UX
+Adding modern UI/UX
 
-Expand reasoning depth
+Expanding reasoning depth
 
 Addition of advanced analytics (regression, ML insights)
 
