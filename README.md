@@ -77,6 +77,7 @@ SmartBiz-AI/
 │   └── prompts.json
 │
 └── requirements.txt
+
 </details>
 
 
