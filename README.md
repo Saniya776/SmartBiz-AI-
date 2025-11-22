@@ -59,7 +59,6 @@ A cleaned professional version is included in this repo.
 <details>
 <summary><b>📂 Project Structure (Click to Expand)</b></summary>
 <br>
-
   
 ```text
 SmartBiz-AI/
