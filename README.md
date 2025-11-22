@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/_banner_.jpg" alt="SmartBiz AI Banner" width="100%">
+  <img src="assets/_banner_.jpg" alt="SmartBiz AI Banner" width="20%">
 </p>
 
 
