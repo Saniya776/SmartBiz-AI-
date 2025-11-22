@@ -6,7 +6,7 @@ This prototype was built as a 3-day learning experiment using Google AI Studio a
 This is not the final app — just the demo version.
 A full Streamlit web app + UI/UX will be added soon.
 
-🚀 Project Overview:
+Project Overview:
 
 SmartBiz AI is designed to act like a tiny digital enterprise by:
 
