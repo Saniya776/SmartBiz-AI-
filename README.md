@@ -56,29 +56,6 @@ The full notebook used to structure and test the system:
 
 A cleaned professional version is included in this repo.
 
-
-Recommended Repository Structure:
-SmartBiz-AI/
-│
-├── README.md
-├── notebooks/
-│   └── SmartBiz_AI_Professional.ipynb
-│
-├── agents/
-│   ├── orchestrator.py
-│   ├── data_agent.py
-│   ├── reasoning_agent.py
-│   ├── task_agent.py
-│   └── memory.py
-│
-├── config/
-│   └── prompts.json
-│
-├── demo/
-│   └── screenshots/
-│
-└── requirements.txt  (for future Streamlit app)
-
 How It Works:
 1. Orchestrator (Brain)
 
@@ -108,7 +85,7 @@ Add modern UI/UX
 
 Expand reasoning depth
 
-Add advanced analytics (regression, ML insights)
+Addition of advanced analytics (regression, ML insights)
 
 Enable file uploads
 
