@@ -59,6 +59,7 @@ A cleaned professional version is included in this repo.
 <details>
 <summary><b>📂 Project Structure (Click to Expand)</b></summary>
 <br>
+
   
 ```text
 SmartBiz-AI/
@@ -78,13 +79,7 @@ SmartBiz-AI/
 │   └── prompts.json
 │
 └── requirements.txt
-
 </details> 
-
-
-
-
-
 
 
 How It Works:
