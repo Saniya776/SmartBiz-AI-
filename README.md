@@ -101,5 +101,4 @@ Kaggle — for providing tools to test the system
 
 Author:
 
-Saniya Chettri
-Aspiring Data Analyst | Exploring AI Systems | Learning Tech One Project at a Time
+Saniya Chettri | Exploring AI Systems | Learning Tech One Project at a Time
