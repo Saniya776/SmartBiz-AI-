@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="SmartBiz AI Banner" width="100%">
-</p>
-assets/banner.png
+
 
 
 SmartBiz AI – Multi-Agent Business Reasoning System (Prototype):
