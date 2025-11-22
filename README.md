@@ -56,32 +56,6 @@ The full notebook used to structure and test the system:
 
 A cleaned professional version is included in this repo.
 
-<details>
-<summary><b>📂 Project Structure (Click to Expand)</b></summary>
-<br>
-  
-SmartBiz-AI/
-│
-├── README.md
-├── notebooks/
-│   └── SmartBiz_AI_Professional.ipynb
-│
-├── agents/
-│   ├── orchestrator.py
-│   ├── data_agent.py
-│   ├── reasoning_agent.py
-│   ├── task_agent.py
-│   └── memory.py
-│
-├── config/
-│   └── prompts.json
-│
-└── requirements.txt
-
-</details>
-
-
-
 How It Works:
 1. Orchestrator (Brain)
 
